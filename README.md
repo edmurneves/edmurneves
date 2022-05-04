@@ -1,6 +1,6 @@
 ### Olá eu sou Edmur Neves estudande de desenvolvimento web! 👋
 
-- 🌱 Atualmente estou estudando NodeJS.
+- 🌱 Atualmente estou estudando Docker, MySQL e NodeJS.
 
 
 <div align="center">
