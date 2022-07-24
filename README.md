@@ -1,6 +1,6 @@
 ### Olá eu sou Edmur Neves estudande de desenvolvimento web! 👋
 
-- 🌱 Atualmente estou estudando Docker, MySQL, NodeJS, Express, Sequelize e JWT.
+- 🌱 Atualmente estou estudando Docker, MySQL, NodeJS, Express, Sequelize, JWT, POO.
 
 
 <div align="center">
