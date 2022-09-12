@@ -1,4 +1,4 @@
-### Olá eu sou Edmur Neves estudande de desenvolvimento web! 👋
+### Olá eu sou Edmur Neves - Desenvolvedor Full Stack - React | NodeJS | Express | MongoDB | MySQL 👋
 
 - 🌱 Atualmente estou estudando Docker, MySQL, NodeJS, Express, Sequelize, JWT, POO.
 
