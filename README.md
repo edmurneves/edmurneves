@@ -1,6 +1,7 @@
 ### Olá eu sou Edmur Neves - Desenvolvedor Full Stack - React | NodeJS | Express | MongoDB | MySQL 👋
 
 - 🌱 Atualmente estou estudando Docker, MySQL, NodeJS, Express, Sequelize, JWT, POO.
+- 🌱 Quando não estou codando, meu hobbie é a Marcenaria onde exercito minha criativadade realizando projetos em madeira.
 
 
 <div align="center">
